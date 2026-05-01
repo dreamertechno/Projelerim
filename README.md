@@ -1,1 +1,1 @@
- Bu projelerim kısmında Okulda ve Açık kaynaklı olan projelerim bulunmaktadır.
+add files via upload kısmınının üstüne gelince ya da tıklayınca kurulum açıklamaları bulunmaktadır not(sadece Blogger seo AI için yazılmıştır diğeri haber site xamp/htdocs klasörünün içine kopyala yapıştır şeklindedir
